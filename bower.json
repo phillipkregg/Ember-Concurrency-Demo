@@ -1,0 +1,19 @@
+{
+  "name": "ember-concurrency-demo",
+  "description": "Small description for ember-concurrency-demo goes here",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "lodash": "^4.17.4",
+    "jquery-mockjax": "^2.2.1"
+  }
+}
