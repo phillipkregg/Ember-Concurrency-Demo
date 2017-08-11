@@ -63,7 +63,6 @@ export default Ember.Route.extend({
   }),
 
   model() {
-      debugger;
     return this.get('runMultipleTasks').perform();
   },
 
