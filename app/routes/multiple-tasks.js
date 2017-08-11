@@ -51,7 +51,7 @@ export default Ember.Route.extend({
 
   getSecond: task(function* () {
     return {
-        second: yield $.getJSON("/restful/first")
+        second: yield $.getJSON("/restful/second")
     }
   }),
 
